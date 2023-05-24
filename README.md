@@ -46,26 +46,6 @@ My json config on vscode at 05-2023
     "yaml.schemas": {
         "file:///home/felipe/.vscode/extensions/atlassian.atlascode-3.0.3/resources/schemas/pipelines-schema.json": "bitbucket-pipelines.yml"
     },
-    "atlascode.jira.enabled": true,
-    "atlascode.bitbucket.enabled": true,
-    "atlascode.jira.jqlList": [
-        {
-            "id": "a7d8a560-f340-4b7c-a417-624c681482a1",
-            "enabled": true,
-            "name": "My alpaclassteam Issues",
-            "query": "assignee = currentUser() AND resolution = Unresolved ORDER BY lastViewed DESC",
-            "siteId": "580cd01d-6b6a-4da2-8907-3c4e5abcc36c",
-            "monitor": true
-        },
-        {
-            "id": "c1214328-941b-4af3-9fe4-2a7c76f3bfe6",
-            "enabled": true,
-            "name": "My eduzzjira Issues",
-            "query": "assignee = currentUser() AND resolution = Unresolved ORDER BY lastViewed DESC",
-            "siteId": "da882a51-62c7-41bc-9cc1-574a9e9b6085",
-            "monitor": true
-        }
-    ],
     "workbench.productIconTheme": "fluent-icons",
     "breadcrumbs.enabled": true,
     "redhat.telemetry.enabled": true,
