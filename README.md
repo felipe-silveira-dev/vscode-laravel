@@ -83,10 +83,6 @@ My json config on vscode at 05-2023
         "html": true
     },
     "explorer.compactFolders": false,
-    "atlascode.jira.lastCreateSiteAndProject": {
-        "siteId": "580cd01d-6b6a-4da2-8907-3c4e5abcc36c",
-        "projectKey": ""
-    },
     "[blade]": {
         "editor.defaultFormatter": "shufo.vscode-blade-formatter"
     },
